@@ -3,4 +3,4 @@ Personal Portofolio or CV
 
 
 
-All Rights Reserved. Designed by [**HTML Codex**](https://htmlcodex.com)
+All Rights Reserved. Designed by [**HTML Codex**](https://htmlcodex.com/freelancer-portfolio-template)
